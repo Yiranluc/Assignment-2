@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>client1</OriginalElement>
+  <nodes>
+    <node x="0.0" y="153.0">client1.PostSwipeDataTask</node>
+    <node x="135.0" y="0.0">client1.CommonVariables</node>
+    <node x="126.0" y="395.0">client1.PostSwipeData</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="client1.PostSwipeData" target="client1.CommonVariables" relationship="DEPENDENCY">
+      <point x="63.0" y="-73.0" />
+      <point x="315.0" y="369.0" />
+      <point x="339.5" y="369.0" />
+      <point x="339.5" y="127.0" />
+      <point x="252.0" y="127.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+    <edge source="client1.PostSwipeData" target="client1.PostSwipeDataTask" relationship="CREATE">
+      <point x="-63.0" y="-73.0" />
+      <point x="189.0" y="369.0" />
+      <point x="164.5" y="369.0" />
+      <point x="0.0" y="95.0" />
+    </edge>
+    <edge source="client1.PostSwipeDataTask" target="client1.CommonVariables" relationship="DEPENDENCY">
+      <point x="0.0" y="-95.0" />
+      <point x="164.5" y="127.0" />
+      <point x="252.0" y="127.0" />
+      <point x="0.0" y="50.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.9488413547237077" showDependencies="true" x="188.99999999999994" y="350.4396017283487" />
+  <SelectedNodes>
+    <node>client1.PostSwipeDataTask</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

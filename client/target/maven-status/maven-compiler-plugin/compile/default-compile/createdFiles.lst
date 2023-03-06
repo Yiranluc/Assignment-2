@@ -1,0 +1,8 @@
+client1\PostSwipeDataTask.class
+client2\PostSwipeDataTask.class
+client1\PostSwipeData.class
+client2\LatencyRecord.class
+client1\CommonVariables.class
+client2\CommonVariables.class
+ThroughputPlot.class
+client2\PostSwipeData.class

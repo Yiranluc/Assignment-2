@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TwinderServer:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/TwinderServer_war</output-path>
+    <root id="archive" name="TwinderServer_war.war">
+      <element id="artifact" artifact-name="TwinderServer:war exploded" />
+    </root>
+  </artifact>
+</component>
